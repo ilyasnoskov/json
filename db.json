@@ -1,0 +1,46 @@
+{
+   "sneaker": [
+      {
+         "id": "01",
+         "image": "https://th.bing.com/th/id/R.716e8add3d8179acd0a42fd7a4d99dfa?rik=6hmmNcSNLDmoRw&pid=ImgRaw&r=0",
+         "price": "3100 грн.",
+         "name": "Nike Air Force 1"
+      },
+      {
+         "id": "02",
+         "image": "https://th.bing.com/th/id/OIP.AHwyIjdJAwtNog6bxdMyeQHaHa?pid=ImgDet&rs=1",
+         "price": "2855 грн.",
+         "name": "Adidas Continental"
+      },
+      {
+         "id": "03",
+         "image": "https://th.bing.com/th/id/R.f26b58ff117ac1f605330806b7e7b1a3?rik=vtfr3Mk4QQNzNg&pid=ImgRaw&r=0",
+         "price": "2000 грн.",
+         "name": "Puma Smash"
+      },
+      {
+         "id": "04",
+         "image": "https://mysportsshoe.com/wp-content/uploads/2019/02/air-jordan-1-high-retro-unc-obsidian-blue-chill-cd0461-401-womens-sneaker-03_medium-768x768.jpg",
+         "price": "5600 грн.",
+         "name": "Nike Air Jordan Retro 1"
+      },
+      {
+         "id": "05",
+         "image": "https://th.bing.com/th/id/OIP.48Yz81KrhzCwNEN5VS462QHaFj?pid=ImgDet&rs=1",
+         "price": "7100 грн.",
+         "name": "Adidas yeezy boost 350"
+      },
+      {
+         "id": "06",
+         "image": "https://static5.butomaniak.pl/eng_pl_Acics-Gel-Zaraca-3-Wmns-T4D8N-9909-2855_2.jpg",
+         "price": "1500 грн.",
+         "name": "Acics Gel Zaraca 3"
+      },
+      {
+         "id": "07",
+         "image": "https://www.surlmag.fr/wp-content/uploads/2013/08/nikestyspper.jpeg",
+         "price": "9000 грн.",
+         "name": "Nike NSW SkyStepper"
+      }
+   ]
+}
