@@ -41,6 +41,54 @@
          "image": "https://www.surlmag.fr/wp-content/uploads/2013/08/nikestyspper.jpeg",
          "price": "9000 грн.",
          "name": "Nike NSW SkyStepper"
+      },
+      {
+         "id": "08",
+         "image": "https://th.bing.com/th/id/R.8508dfc2dce3d27e4fc4e37e07e8902c?rik=gsUucbKHmfVi9A&pid=ImgRaw&r=0",
+         "price": "4500 грн.",
+         "name": "Air Jordan 4 Black Cat"
+      },
+      {
+         "id": "09",
+         "image": "https://images.ua.prom.st/903097600_zhenskie-belye-krossovki.jpg",
+         "price": "3000 грн.",
+         "name": "Nike Air Force High"
+      },
+      {
+         "id": "10",
+         "image": "https://images.ua.prom.st/1570863226_muzhskie-krossovki-n1ke.jpg",
+         "price": "2100 грн.",
+         "name": "Nike Air More Uptempo"
+      },
+      {
+         "id": "11",
+         "image": "https://images.ua.prom.st/1837839945_w640_h640_zhenskie-krossovki-nike.jpg",
+         "price": "2250 грн.",
+         "name": "Nike Air Max 95"
+      },
+      {
+         "id": "12",
+         "image": "https://i.pinimg.com/originals/45/d6/b7/45d6b7720b523a7935bf938cb60d1de5.png",
+         "price": "5000 грн.",
+         "name": "Nike Air Jordan 8"
+      },
+      {
+         "id": "13",
+         "image": "https://th.bing.com/th/id/OIP.n8rfPfobEEw-6-cTLkzf2wHaF-?pid=ImgDet&rs=1",
+         "price": "2200 грн.",
+         "name": "Nike T-Lite White/Pink"
+      },
+      {
+         "id": "14",
+         "image": "https://th.bing.com/th/id/OIP.ahivyOEpUhA2DjOVBpmjtgHaEy?pid=ImgDet&rs=1",
+         "price": "1800 грн.",
+         "name": "Nike Air Max IVO White/Dark"
+      },
+      {
+         "id": "15",
+         "image": "https://th.bing.com/th/id/R.6848e5451ed148781044f0a9cff4400b?rik=4FppPRiry33Jow&pid=ImgRaw&r=0&sres=1&sresct=1",
+         "price": "10000 грн.",
+         "name": "Nike Air Jordan 2012 Deluxe"
       }
    ]
 }
